@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rudal Mart</string>
+    <string name="content_text">Dijual Kulkas LG 2 pintu Motif Anime Alice Blue Archive Minat Inbox</string>
+    <string name="content_specs_kapasitas">694L gross / 647L net</string>
+    <string name="content_specs_Dimensi">913 x 1790 x 735</string>
+    <string name="content_specs_Tipe">Kulkas Side by Side Terbaru dengan Pintu UltraSleek</string>
+    <string name="stock">Stock 100 buah</string>
+    <string name="specification">specification</string>
+    <string name="kapasitas">Kapasitas</string>
+    <string name="Dimensi">Dimensi (WXHXD) </string>
+    <string name="Tipe">Tipe</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Taufik Akbar</string>
+    <string name="buy">Beli</string>
+    <string name="cs">Hubungi CS</string>
+    <string name="dummy_value">Rp 99999999999</string>
+    <string name="dummy_photos">69 photos</string>
+    <string name="klik_beli">Produk telah berhasil dibeli.</string>
+</resources>
